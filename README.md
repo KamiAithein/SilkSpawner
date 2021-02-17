@@ -9,7 +9,7 @@ Eggs can be used to set the spawn type of the spawner. This system is intended t
 
 ## Additions
  + Ability to break mob spawners with a percent chance of dropping the mob spawner block
- + "Dragon Scale" item which is used to create a dragon scale pick, needed to craft a "Dragon scale pickaxe"
+ + "Dragon Scale" item which is used to create a dragon scale pick, needed to craft a "Dragon scale pickaxe." % drop chance from killing ender dragon.
  + "Dragon scale pickaxe" item that when enchanted with silk touch has a percent chance to drop a mob spawner
  
 ## Developers
